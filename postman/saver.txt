@@ -1,0 +1,13 @@
+post user:
+{"username": "Joaco97","name": "Joaquin", "password":"qwerty"}
+
+post login user: 
+{"username": "Joaco97", "password":"qwerty"}
+
+post article:
+{
+    "title":"primer posteo",
+    "content":"este es el primer posteo"
+}
+
+Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwZWUyYjFkMThkMTlkMTc1ODA4NThmZSIsInVzZXJuYW1lIjoiSm9hY285NyIsImlhdCI6MTYyNjIzNTc1NH0.-rfnOUYIJOhhY0q5G-8Ha_minA4vaNkNaePQ0kZkqd8
