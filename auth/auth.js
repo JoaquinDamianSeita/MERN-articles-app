@@ -5,8 +5,8 @@ const UserModel = require("../models/user");
 
 const jwt = require("jsonwebtoken");
 
-const FACEBOOK_CLIENT_ID = "175557094726828";
-const FACEBOOK_CLIENT_SECRET = "61ee1d99caeeaa547b92f60affaad253";
+const FACEBOOK_CLIENT_ID = "";
+const FACEBOOK_CLIENT_SECRET = "";
 
 passport.use(
   "signup",
